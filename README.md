@@ -10,17 +10,17 @@ _codificar aplicaciones con framewoks de desarrollo_ que permita aplicar solucio
 # Proceso para la formación. 
 Este  proceso se lleva a cabo con el enfoque de competencias laborales, que desarrollan en el estudiantado 
 una experiencia relevante y flexible, que mejore su comprensión y aplicación en su capacidad de diseñar, codificar e implementar 
-software de sistemas informáticos. 
+software de sistemas informáticos [1]. 
  
 
 # Enfoque basado en competencia laboral básica. 
 Este planteamiento hace referencia a los aprendizajes clave esperados de conocimientos (saber), habilidades (saber hacer) y actitudes (saber ser)
 contenidos en la **Actividad clave** _Codifica aplicaciones con frameworks de desarrollo_ reflejados en el **Desarrollo de la competencia** 
-Codifica los distintos componentes de la aplicación, considerando el diseño del proyecto, los modelos de 
+"Codifica los distintos componentes de la aplicación, considerando el diseño del proyecto, los modelos de 
 datos, controladores, vistas y lógica de negocio; empleando un pensamiento lógico y matemático,
 siguiendo convenciones del lenguaje de programación  de código abierto interpretado del lado del servidor,  documentando el código fuente, 
-haciendo uso de un sistema de control de versiones distribuido de información, trabajando en forma creativa y 
-autónoma o colaborativa; saberes pertenecientes al **Módulo II** _Desarrolla software con herramientas orientadas a la productividad_, para lograr 
+y haciendo uso de un sistema de control de versiones distribuido de información, trabajando en forma creativa y 
+autónoma o colaborativa"; saberes pertenecientes al **Módulo II** _Desarrolla software con herramientas orientadas a la productividad_, para lograr 
 que el estudiante sea capaz de _Emplear framewoks con herramientas orientadas a la productividad_ [1].
 
 Por lo cual, se presenta el siguiente orden de proyectos:
@@ -39,10 +39,10 @@ Codifica los distintos componentes de la aplicación:
 </br>
 
 # Referencias.
-[1] Módulo II Desarrolla software con herramientas orientadas a la productividad.
-Submódulo 1. Emplea frameworks para el desarrollo de software.
-Disponible en:[M2S1] (https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad/blob/main/Miscelaneos/programaEstudiosProgramacionAcuerdo090823.pdf)
+[1] Módulo II Desarrolla software con herramientas orientadas a la productividad.</br>
+Submódulo 1. Emplea frameworks para el desarrollo de software. </br>
+Disponible en:[M2S1] (https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad/blob/main/Miscelaneos/programaEstudiosProgramacionAcuerdo090823.pdf) </br>
 
-[]Organizar la información en tablas.
-Disponible en:https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
-Consultado: 06julio24
+[]Organizar la información en tablas. </br>
+Disponible en:https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables </br>
+Consultado: 06julio24 </br>
