@@ -29,13 +29,8 @@ Por lo cual, se presenta el siguiente orden de proyectos:
 
 | Proyecto | Descripción |
 | --- | --- |
-<<<<<<< HEAD
 | [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
 | [todoEnUno_M2](https://github.com/miRepositorioGit/todoEnUno_M2.git) |Muestra la convivencia de tres capas de una arquitectura codificadas con dos diferentes tecnologías de lenguaje |
-=======
-| [tresCapasPhp] (https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
-| [bareBones] (https://github.com/miRepositorioGit/bareBones.git)| Mínimo |
->>>>>>> a35dc1af942caa1dade0e798077ee787fce58268
 
 </br>
 
