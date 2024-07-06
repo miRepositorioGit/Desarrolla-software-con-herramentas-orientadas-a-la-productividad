@@ -11,13 +11,11 @@ problemas simples en contextos conocidos y específicos.
 # Proceso para la formación 
 El proceso de formación se lleva a cabo con el enfoque de competencias, que desarrollen en el estudiantado 
 una experiencia relevante y flexible que mejore su comprensión y aplicación en su 
-capacidad de codificar aplicaciones considerando una aquitectura por capas,  siguiendo las convenciones de un  
-lenguaje de código abierto interpretado del lado del servidor, documentando el código fuente haciendo uso de 
-un sistema de control de versiones distribuido de información  empleando un pensamiento lógico y
+capacidad de codificar aplicaciones web, considerando una aquitectura por capas,  siguiendo las convenciones de un  
+lenguaje de código abierto interpretado del lado del servidor, documentando el código fuente y haciendo uso de 
+un sistema de control de versiones distribuido de información,  empleando un pensamiento lógico y
 matemático para integrarse en la sociedad como ciudadanos y trabajadores.
 
-
-Actividad
 
 # Desarrollo de la competencia. 
 Hace referencia a actividades ordenadas didácticamente que responden a una lógica formativa para la adquisición de la 
@@ -37,5 +35,7 @@ Por lo cual, se presenta el siguiente orden de proyctos:
 Codifica los distintos componentes de la aplicación.
 
 [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)
+
+#Referencias
 
 
