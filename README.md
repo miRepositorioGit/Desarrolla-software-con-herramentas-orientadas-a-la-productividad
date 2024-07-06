@@ -42,3 +42,4 @@ Disponible en:https://github.com/miRepositorioGit/Desarrolla-software-con-herram
 []Organizar la información en tablas. </br>
 Disponible en:https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables </br>
 Consultado: 06julio24 </br>
+
