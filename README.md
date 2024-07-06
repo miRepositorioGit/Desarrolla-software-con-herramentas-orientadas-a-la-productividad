@@ -1,6 +1,6 @@
 # Desarrolla software con herramientas orientadas a la productividad.
 
-Codifica aplicaciones con frameworks de desarrollo.
+Codifica aplicaciones con frameworks de desarrollo [1].
 
 
 # Descripción.
@@ -21,13 +21,12 @@ datos, controladores, vistas y lógica de negocio; empleando un pensamiento lóg
 siguiendo convenciones del lenguaje de programación  de código abierto interpretado del lado del servidor,  documentando el código fuente, 
 haciendo uso de un sistema de control de versiones distribuido de información, trabajando en forma creativa y 
 autónoma o colaborativa; saberes pertenecientes al **Módulo II** _Desarrolla software con herramientas orientadas a la productividad_, para lograr 
-que el estudiante sea capaz de _Emplear framewoks con herramientas orientadas a la productividad_.
+que el estudiante sea capaz de _Emplear framewoks con herramientas orientadas a la productividad_ [1].
 
 Por lo cual, se presenta el siguiente orden de proyectos:
 
 Codifica los distintos componentes de la aplicación:
 </br>
--[tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp) Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php.
 
 | Command | Description |
 | --- | --- |
@@ -39,7 +38,11 @@ Codifica los distintos componentes de la aplicación:
 
 </br>
 
-# Referencias
-Organizar la información en tablas.
+# Referencias.
+[1] Módulo II Desarrolla software con herramientas orientadas a la productividad.
+Submódulo 1. Emplea frameworks para el desarrollo de software.
+Disponible en:[M2S1] (https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad/blob/main/Miscelaneos/programaEstudiosProgramacionAcuerdo090823.pdf)
+
+[]Organizar la información en tablas.
 Disponible en:https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
-Consiltado: 06julio24
+Consultado: 06julio24
