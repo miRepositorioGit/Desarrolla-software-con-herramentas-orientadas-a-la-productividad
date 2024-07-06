@@ -5,11 +5,11 @@ Codifica aplicaciones con frameworks de desarrollo.
 
 # Descripción.
 El propósito de este repositorio público, es apoyar al desarrollo de la competencia laboral básica de 
-codificar aplicaciones con framewoks de desarrollo que permita aplicar soluciones a problemas simples en contextos conocidos y específicos.
+_codificar aplicaciones con framewoks de desarrollo_ que permita aplicar soluciones a problemas simples en contextos conocidos y específicos.
 
-# Proceso para la formación 
-El proceso de formación se lleva a cabo con el enfoque de competencias, que desarrollen en el estudiantado 
-una experiencia relevante y flexible que mejore su comprensión y aplicación en su capacidad de codificar aplicaciones web, 
+# Proceso para la formación. 
+Este  proceso se lleva a cabo con el enfoque de competencias, que desarrollan en el estudiantado 
+una experiencia relevante y flexible, que mejore su comprensión y aplicación en su capacidad de codificar aplicaciones web, 
 considerando una arquitectura por capas,  siguiendo las convenciones de un  lenguaje de código abierto interpretado 
 del lado del servidor, documentando el código fuente y haciendo uso de un sistema de control de versiones distribuido 
 de información,  empleando un pensamiento lógico y matemático para integrarse en la sociedad como ciudadanos y trabajadores.
@@ -26,7 +26,9 @@ Para lograr que el estudiante sea capaz de:
 _Emplear framewoks con herramientas orientadas a la productividad_.
 
 Por lo cual, se presenta el siguiente orden de proyectos:
-
+```bash
 Codifica los distintos componentes de la aplicación.
-
-[tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)
+├[tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)
+├
+```
+</br>
