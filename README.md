@@ -29,7 +29,7 @@ Por lo cual, se presenta el siguiente orden de proyectos:
 
 Codifica los distintos componentes de la aplicación:
 </br>
--[tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp) Muestra una aplicación web interpretada en un servidor local, desarrollada en capas y codificada en lenguaje php.
+-[tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp) Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php.
 
 
 
