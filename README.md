@@ -20,21 +20,17 @@ contenidos en la **Actividad clave** _Codifica aplicaciones con frameworks de de
 datos, controladores, vistas y lógica de negocio; empleando un pensamiento lógico y matemático,
 siguiendo convenciones del lenguaje de programación  de código abierto interpretado del lado del servidor,  documentando el código fuente, 
 y haciendo uso de un sistema de control de versiones distribuido de información, trabajando en forma creativa y 
-autónoma o colaborativa"; saberes pertenecientes al **Módulo II** _Desarrolla software con herramientas orientadas a la productividad_, para lograr 
-que el estudiante sea capaz de _Emplear framewoks con herramientas orientadas a la productividad_ [1].
+autónoma o colaborativa"; saberes y actitudes pertenecientes al **Módulo II** _Desarrolla software con herramientas orientadas a la productividad_, 
+para lograr que el estudiante sea capaz de _Emplear framewoks con herramientas orientadas a la productividad_ [1].
 
 Por lo cual, se presenta el siguiente orden de proyectos:
 
-Codifica los distintos componentes de la aplicación:
 </br>
 
 | Command | Description |
 | --- | --- |
 | [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
 | `git diff` | Show file differences that **haven't been** staged |
-
-
-
 
 </br>
 
