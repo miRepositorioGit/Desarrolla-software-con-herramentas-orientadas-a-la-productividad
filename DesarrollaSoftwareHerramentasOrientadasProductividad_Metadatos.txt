@@ -1,0 +1,14 @@
+DesarrollaSoftwareHerramentasOrientadasProductividad.txt
+
+
+• Emplear frameworks para el desarrollo de software
+
+https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad.git
+
+echo "# Desarrolla-software-con-herramentas-orientadas-a-la-productividad" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad.git
+git push -u origin main
