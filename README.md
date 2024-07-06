@@ -26,9 +26,10 @@ Para lograr que el estudiante sea capaz de:
 _Emplear framewoks con herramientas orientadas a la productividad_.
 
 Por lo cual, se presenta el siguiente orden de proyectos:
-```bash
-Codifica los distintos componentes de la aplicación.
-├[tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)
-├
-```
+
+Codifica los distintos componentes de la aplicación:
+[tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)
+
+
+
 </br>
