@@ -27,7 +27,7 @@ Por lo cual, se presenta el siguiente orden de proyectos:
 
 </br>
 
-| Command | Description |
+| Proyecto | Descripción |
 | --- | --- |
 | [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
 | `git diff` | Show file differences that **haven't been** staged |
@@ -37,7 +37,7 @@ Por lo cual, se presenta el siguiente orden de proyectos:
 # Referencias.
 [1] Módulo II Desarrolla software con herramientas orientadas a la productividad.</br>
 Submódulo 1. Emplea frameworks para el desarrollo de software. </br>
-Disponible en:[M2S1] (https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad/blob/main/Miscelaneos/programaEstudiosProgramacionAcuerdo090823.pdf) </br>
+Disponible en:https://github.com/miRepositorioGit/Desarrolla-software-con-herramentas-orientadas-a-la-productividad/blob/main/Miscelaneos/programaEstudiosProgramacionAcuerdo090823.pdf </br>
 
 []Organizar la información en tablas. </br>
 Disponible en:https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables </br>
