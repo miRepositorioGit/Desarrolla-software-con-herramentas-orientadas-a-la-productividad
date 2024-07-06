@@ -30,7 +30,7 @@ Por lo cual, se presenta el siguiente orden de proyectos:
 | Proyecto | Descripción |
 | --- | --- |
 | [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
-| `git diff` | Show file differences that **haven't been** staged |
+| [bareBones]`git diff` | Show file differences that **haven't been** staged |
 
 </br>
 
