@@ -23,15 +23,14 @@ Actividad
 Hace referencia a actividades ordenadas didácticamente que responden a una lógica formativa para la adquisición de la 
 competencia perteneciente al 
 **Módulo II** _Desarrolla software con herramientas orientdas a la productividad._
-	├**Submódulo I** _Codifica los distintos componentes de la aplicación, considerando el diseño del proyecto, los modelos de 
-	|			datos, controladores, vistas y lógica de negocio; empleando un pensamiento lógico y matemático,
-	|			documentando el código fuente, siguiendo convenciones del lenguaje de programación, trabajando en forma creativa y 
-	|			autónoma o colaborativa_.
-	|
-	└
+**Submódulo I** _Codifica los distintos componentes de la aplicación, considerando el diseño del proyecto, los modelos de 
+datos, controladores, vistas y lógica de negocio; empleando un pensamiento lógico y matemático,
+documentando el código fuente, siguiendo convenciones del lenguaje de programación, trabajando en forma creativa y 
+autónoma o colaborativa_.
+
 Para lograr que el estudiante sea capaz de: 
 
-Emplear framewoks con herramientas orientadas a a productividad.
+_Emplear framewoks con herramientas orientadas a a productividad.__
 
 Por lo cual, se presenta el siguiente orden de proyctos:
 
