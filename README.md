@@ -24,14 +24,11 @@ autónoma o colaborativa"; saberes y actitudes pertenecientes al **Módulo II** 
 para lograr que el estudiante sea capaz de _Emplear framewoks con herramientas orientadas a la productividad_ [1].
 
 Por lo cual, se presenta el siguiente orden de proyectos:
-
 </br>
-
 | Proyecto | Descripción |
 | --- | --- |
 | [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
 | [todoEnUno_M2](https://github.com/miRepositorioGit/todoEnUno_M2.git) |Muestra la convivencia de tres capas de una arquitectura codificadas con dos diferentes tecnologías de lenguaje |
-
 </br>
 
 # Referencias.
