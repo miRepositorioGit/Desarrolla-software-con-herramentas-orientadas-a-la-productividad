@@ -29,6 +29,17 @@ Codifica los distintos componentes de la aplicación:
 </br>
 -[tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp) Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php.
 
+| Command | Description |
+| --- | --- |
+| [tresCapasPhp](https://github.com/miRepositorioGit/tresCapasPhp)| Muestra una aplicación web, interpretada en un servidor local, desarrollada en capas codificadas en lenguaje php. |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
 
 
 </br>
+
+# Referencias
+Organizar la información en tablas.
+Disponible en:https://docs.github.com/es/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
+Consiltado: 06julio24
